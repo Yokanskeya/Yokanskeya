@@ -9,7 +9,7 @@
 </td>
 	<tr>
 	<td width="1200px">
-	<h3>Programming languages:</h3>
+	<h3>Programming technology:</h3>
 	<img align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,react,vite"></td>
 	</tr>
 	<table>   
