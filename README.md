@@ -1,4 +1,4 @@
-<img src="/files/skeyaGit.png" draggable="false">
+<img src="https://cdn.discordapp.com/attachments/1028699199304372264/1067895568124350584/skeyaGit.png" draggable="false">
 
 
 <table>
@@ -50,4 +50,4 @@
     </a>
   </div>
   <br>
-  <img src="/files/contribution.svg" width="100%"/>
+  <img src="https://cdn.discordapp.com/attachments/1028699199304372264/1067895568359235584/contribution.svg" width="100%"/>
