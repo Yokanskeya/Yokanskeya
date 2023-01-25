@@ -49,5 +49,7 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokanskeya&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
+<br>
+<img src="https://lanyard.cnrad.dev/api/1056956151088033863?hideTimestamp=true?hideProfile=true?hideStatus=true">
   <br>
   <img src="https://cdn.discordapp.com/attachments/1028699199304372264/1067895568359235584/contribution.svg" width="100%"/>
