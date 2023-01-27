@@ -48,5 +48,3 @@
 <div align="center">
 <img src="https://lanyard.cnrad.dev/api/474239882877730837?hideTimestamp=true?hideProfile=true?hideStatus=true">
 </div>
-  <br>
-  <img src="https://cdn.discordapp.com/attachments/1028699199304372264/1067895568359235584/contribution.svg" width="100%"/>
