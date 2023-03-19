@@ -4,7 +4,7 @@
 <table>
 	 <td width="1200px">
 	 <h2>About Me:</h2>
-		 <p>Hey, I'm Skeya ✌️ I'm interested in full stack web development including large scale frontend applications and performant serverside code. I use a wide range of tools to tackle each hurdle in the most efficient manner possible. </p>
+		 <p>Hey, I'm Skeya ✌️ I'm interested in front-end developer and sometimes i do full stack including large scale frontend applications and performant serverside code. I use a wide range of tools to tackle each hurdle in the most efficient manner possible. </p>
     
 </td>
 	<tr>
