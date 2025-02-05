@@ -1,6 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/1028699199304372264/1068430352936345631/skeyaGit1.png" draggable="false">
-
-
 <table>
 	 <td width="1200px">
 	 <h2>About Me:</h2>
